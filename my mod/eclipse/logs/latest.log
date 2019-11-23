@@ -1,0 +1,35 @@
+[23:10:11] [main/INFO]: Setting user: Player848
+[23:10:14] [Client thread/INFO]: LWJGL Version: 2.9.1
+[23:10:28] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Ars Alchimia
+[23:10:30] [Sound Library Loader/INFO]: Sound engine started
+[23:10:32] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[23:10:32] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[23:10:32] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Ars Alchimia
+[23:10:33] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[23:10:33] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[23:10:34] [Sound Library Loader/INFO]: Sound engine started
+[23:10:56] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[23:10:56] [Server thread/INFO]: Generating keypair
+[23:10:57] [Server thread/INFO]: Preparing start region for level 0
+[23:10:58] [Server thread/INFO]: Preparing spawn area: 25%
+[23:10:59] [Server thread/INFO]: Changing view distance to 12, from 10
+[23:11:00] [Server thread/INFO]: Player848[local:E:dd6726c8] logged in with entity id 200 at (-65.56514255261766, 91.24918707874468, 72.43732662465672)
+[23:11:00] [Server thread/INFO]: Player848 joined the game
+[23:11:01] [Server thread/INFO]: Saving and pausing game...
+[23:11:01] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:11:01] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:11:01] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:11:19] [Server thread/INFO]: [Player848: Set own game mode to Survival Mode]
+[23:11:19] [Client thread/INFO]: [CHAT] Your game mode has been updated
+[23:11:22] [Client thread/INFO]: Warning: Clientside chunk ticking took 316 ms
+[23:11:28] [Client thread/INFO]: Warning: Clientside chunk ticking took 116 ms
+[23:11:37] [Server thread/INFO]: Player848 has just earned the achievement [Taking Inventory]
+[23:11:37] [Client thread/INFO]: [CHAT] Player848 has just earned the achievement [Taking Inventory]
+[23:11:42] [Client thread/INFO]: Stopping!
+[23:11:42] [Server thread/INFO]: Stopping server
+[23:11:42] [Server thread/INFO]: Saving players
+[23:11:42] [Server thread/INFO]: Saving worlds
+[23:11:42] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[23:11:42] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[23:11:42] [Server thread/INFO]: Saving chunks for level 'New World'/The End
+[23:11:42] [Client Shutdown Thread/INFO]: Stopping server

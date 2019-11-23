@@ -1,0 +1,16 @@
+package com.foamy.aa.item;
+
+import com.foamy.aa.Core;
+
+import net.minecraft.item.Item;
+
+public class MoonlightGS extends Item {
+
+	public MoonlightGS() {
+		setUnlocalizedName("moonlight_g_s");
+		setTextureName(Core.MODID + ":moonlight_g_s");
+		setCreativeTab();
+		
+	}
+	
+}
