@@ -13,7 +13,7 @@ public class MoonlightGS extends ItemSword {
 		setTextureName(Core.MODID + ":moonlight_g_s");
 		setCreativeTab(Core.creativeTab);
 		
-		
+		//gay bruh
 		AAItems.ITEMS.add(this);
 	}
 	
